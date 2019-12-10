@@ -41,6 +41,5 @@
     "6720/tcp": 6720,
     "3671/udp": 3671
   },
-  "auto_uart": true,
-  "image": ""
+  "auto_uart": true
 }
